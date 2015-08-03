@@ -50,7 +50,7 @@ var stringifyJSON = function(obj) {
   else return stringifyPrims(obj);
   return result;
 
-  return JSON.stringify(obj);
+  //return JSON.stringify(obj);
 };
 
 
